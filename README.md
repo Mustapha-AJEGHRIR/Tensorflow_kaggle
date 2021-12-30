@@ -10,8 +10,14 @@ Then put them in the folder data
 
 ## YOLOX
 
-I'm using the repository [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX.git), So please run the commands :
-```bash git
+I'm using the repository [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX.git) as a submodule, So please run the commands :
+```bash
 $ git submodule init
 $ git submodule update
 ```
+I have also updated the requirements, so please install the ones outside the `YOLOX` submodule by running the command :
+``` bash
+$ pip install -U pip
+$ pip install -r requirements.txt
+```
+If you noticed, I have also added `yolox_nano.pth` in the branch, it is just to simplify our life *(not a good habit, but for 7 MB only its fine)*, you can find more in the [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX.git) repository.
