@@ -1,3 +1,10 @@
+#This is only a repository, see README.md for more information
+YOLOX/*
+
+
+#for data, see README.md (Kaggle link)
+data/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

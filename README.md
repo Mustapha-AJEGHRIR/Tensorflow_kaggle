@@ -7,3 +7,7 @@ This repository contains my code and for the Kaggle competition [`TensorFlow - H
 To get data, please download them here : https://www.kaggle.com/c/tensorflow-great-barrier-reef/data 
 
 Then put them in the folder data
+
+## YOLOX
+
+I'm using the repository [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX.git), please read its readme. I'm also using their 
