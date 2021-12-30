@@ -10,4 +10,8 @@ Then put them in the folder data
 
 ## YOLOX
 
-I'm using the repository [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX.git), please read its readme. I'm also using their 
+I'm using the repository [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX.git), So please run the commands :
+```bash git
+$ git submodule init
+$ git submodule update
+```
