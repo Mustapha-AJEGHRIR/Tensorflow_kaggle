@@ -1,3 +1,7 @@
+# Get checkpoints in YOLOX's github Readme (there is links)
+checkpoints/*
+
+
 #for data, see README.md (Kaggle link)
 data/*
 
