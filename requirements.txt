@@ -21,3 +21,4 @@ onnx-simplifier>=0.3.5
 
 # From me :
 torchsummary
+matplotlib
