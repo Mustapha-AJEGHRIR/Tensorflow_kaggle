@@ -2,13 +2,18 @@
 
 This repository contains my code and for the Kaggle competition [`TensorFlow - Help Protect the Great Barrier Reef`](https://www.kaggle.com/c/tensorflow-great-barrier-reef/overview) 
 
-## Data
+# Data
 
 To get data, please download them here : https://www.kaggle.com/c/tensorflow-great-barrier-reef/data 
 
 Then put them in the folder data
 
-## YOLOX
+## Data VOC Format:
+The notebook `data_transformation.ipynb` will transform the data to the format used by YOLOX `VOC`. *(Not yet tested)*
+
+Please see the notebook for more information.
+
+# YOLOX
 
 I'm using the repository [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX.git) as a submodule, So please run the commands :
 ```bash
