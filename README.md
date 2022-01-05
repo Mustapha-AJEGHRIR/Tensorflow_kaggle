@@ -2,6 +2,9 @@
 
 This repository contains my code and for the Kaggle competition [`TensorFlow - Help Protect the Great Barrier Reef`](https://www.kaggle.com/c/tensorflow-great-barrier-reef/overview) 
 
+# Disclaimer
+Feel free to take a look in this repository, but if you want better quality code, please go to [Kaggle competition code](https://www.kaggle.com/c/tensorflow-great-barrier-reef/code).
+
 # Data
 
 To get data, please download them here : https://www.kaggle.com/c/tensorflow-great-barrier-reef/data 
